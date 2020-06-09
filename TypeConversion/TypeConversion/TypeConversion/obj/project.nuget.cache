@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IGMwvuSos7Y3vgE9r7d4H9Frq7Yq5YMs64/ddbGFRoHZMdVzgAFiAVqbdDY8K+f74JnF7a76weuY6CCKmV1kww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpBasics\\TypeConversion\\TypeConversion\\TypeConversion\\TypeConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
