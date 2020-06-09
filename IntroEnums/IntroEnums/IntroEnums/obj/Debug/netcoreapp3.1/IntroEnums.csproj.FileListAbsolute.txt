@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\bin\Debug\netcoreapp3.1\IntroEnums.exe
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\bin\Debug\netcoreapp3.1\IntroEnums.deps.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\bin\Debug\netcoreapp3.1\IntroEnums.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\bin\Debug\netcoreapp3.1\IntroEnums.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\bin\Debug\netcoreapp3.1\IntroEnums.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\bin\Debug\netcoreapp3.1\IntroEnums.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroEnums\IntroEnums\IntroEnums\obj\Debug\netcoreapp3.1\IntroEnums.genruntimeconfig.cache
