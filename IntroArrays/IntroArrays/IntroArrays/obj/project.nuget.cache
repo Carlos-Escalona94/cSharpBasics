@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYdIoaZLZEs98HEJag0UD7XPD0ZJvKtJs4EYvtNcEaurKhaE/6lrsn9tDGL/r373HRoTD+FHRI734vuZPooNSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpBasics\\IntroArrays\\IntroArrays\\IntroArrays\\IntroArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
