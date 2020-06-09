@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PeflSMmODYBK0JYTeqLBIHQVVb2kwweFEzsBm/FOhe7oBdfI00/7dyZRtSy8S5DFpjpxWnEV2nrEZiIezs3Ppw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpBasics\\HelloWorld\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
