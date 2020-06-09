@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\bin\Debug\netcoreapp3.1\IntroStrings.exe
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\bin\Debug\netcoreapp3.1\IntroStrings.deps.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\bin\Debug\netcoreapp3.1\IntroStrings.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\bin\Debug\netcoreapp3.1\IntroStrings.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\bin\Debug\netcoreapp3.1\IntroStrings.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\bin\Debug\netcoreapp3.1\IntroStrings.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\IntroStrings\IntroStrings\IntroStrings\obj\Debug\netcoreapp3.1\IntroStrings.genruntimeconfig.cache
