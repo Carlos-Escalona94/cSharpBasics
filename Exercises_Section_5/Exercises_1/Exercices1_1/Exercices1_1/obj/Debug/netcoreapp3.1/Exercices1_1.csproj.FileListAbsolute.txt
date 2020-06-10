@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\bin\Debug\netcoreapp3.1\Exercices1_1.exe
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\bin\Debug\netcoreapp3.1\Exercices1_1.deps.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\bin\Debug\netcoreapp3.1\Exercices1_1.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\bin\Debug\netcoreapp3.1\Exercices1_1.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\bin\Debug\netcoreapp3.1\Exercices1_1.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\bin\Debug\netcoreapp3.1\Exercices1_1.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\Exercises_Section_5\Exercises_1\Exercices1_1\Exercices1_1\obj\Debug\netcoreapp3.1\Exercices1_1.genruntimeconfig.cache

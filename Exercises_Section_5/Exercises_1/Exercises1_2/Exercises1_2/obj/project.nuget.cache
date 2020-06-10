@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mW7zyLEcmvXg6pH2LDdlGTSkc+E5V3PAZ8jXiaaARTuD9hWn+pmoGFJteTgGjvxJqNp1CQ8eO9+RqKEulipzCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gustavo\\Desktop\\Escalona\\cSharpBasics\\Exercises_Section_5\\Exercises_1\\Exercises1_2\\Exercises1_2\\Exercises1_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -6,7 +6,17 @@ namespace Exercices1_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string entradaDoUsuario;
+            int valorNumericoEntrada;
+            string resultadoValidacion;
+            
+            Console.WriteLine("Escreva um numero:");
+            entradaDoUsuario = Console.ReadLine();
+            valorNumericoEntrada = Int32.Parse(entradaDoUsuario);
+
+            resultadoValidacion = (valorNumericoEntrada >= 1 && valorNumericoEntrada <= 10) ? "Valid":"Invalid";
+
+            Console.WriteLine(resultadoValidacion);
         }
     }
 }
