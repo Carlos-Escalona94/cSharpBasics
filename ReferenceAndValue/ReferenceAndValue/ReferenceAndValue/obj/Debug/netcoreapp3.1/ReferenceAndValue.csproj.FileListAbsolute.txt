@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\bin\Debug\netcoreapp3.1\ReferenceAndValue.exe
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\bin\Debug\netcoreapp3.1\ReferenceAndValue.deps.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\bin\Debug\netcoreapp3.1\ReferenceAndValue.runtimeconfig.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\bin\Debug\netcoreapp3.1\ReferenceAndValue.runtimeconfig.dev.json
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\bin\Debug\netcoreapp3.1\ReferenceAndValue.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\bin\Debug\netcoreapp3.1\ReferenceAndValue.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.dll
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.pdb
+C:\Users\Gustavo\Desktop\Escalona\cSharpBasics\ReferenceAndValue\ReferenceAndValue\ReferenceAndValue\obj\Debug\netcoreapp3.1\ReferenceAndValue.genruntimeconfig.cache
